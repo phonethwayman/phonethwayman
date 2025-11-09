@@ -4,16 +4,14 @@
 
 - 🌟 I am a **1st-year IT student at MIIT (Myanmar Institute of Information Technology)**, passionate about **coding, cybersecurity, and technology**.  
 - 💡 I enjoy **learning new skills**, including **penetration testing, software development, cloud computing, and doing embedded projects**.  
-- 🚀 Currently, I am an **aspiring IT professional**, focused on excelling in my **university courses, projects, and practical hands-on experience**.  
+- 🚀 Currently, I am an **aspiring IT professional**, focused on excelling in my **university courses, projects, and practical hands-on experience**.
+- ![Header GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZsaHNobm1xYjM1MWQ5a2M3ZDI2dmFqMzdwMWEwcWxwYTFoajRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
 ---
 
 📫 **Contact Me:**  
 - ✉️ Personal Email: phonethwaymarn@gmail.com  
 - 🎓 Student Email: 2024-miit-cse-051@miit.edu.mm
 
-
-
-![Header GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZsaHNobm1xYjM1MWQ5a2M3ZDI2dmFqMzdwMWEwcWxwYTFoajRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
 
 ---
 
